@@ -5,7 +5,6 @@ import Header from './components/Header'
 import About from './components/About'
 import BlogsList from './components/BlogsList'
 import BlogItemDetails from './components/BlogItemDetails'
-// eslint-disable-next-line import/extensions
 import Contact from './components/Contact'
 import NotFound from './components/NotFound'
 

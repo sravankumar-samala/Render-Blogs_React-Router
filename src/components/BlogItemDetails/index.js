@@ -31,7 +31,6 @@ class BlogItemDetails extends Component {
     }
 
     this.setState({blogDetails: updatedData})
-    // console.log(updatedData)
   }
 
   renderBlogItemDetails = () => {
